@@ -1,0 +1,3 @@
+- Mengetahui cara kerja github
+- Memahami dasar-dasar untuk menggunakan github(Setting Up, Saving Changes, Inspecting Repository, Syncing, Braches dll)
+- Memahami cara kerja github dan visual studio code
