@@ -1,0 +1,3 @@
+- Mempelajari basic dart programming
+- Mengetahui variabel-variabel dalam dart programming
+- Memahami membuat fungsi main dalam dart Programming
