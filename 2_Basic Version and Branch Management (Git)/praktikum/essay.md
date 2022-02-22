@@ -1,6 +1,6 @@
-#####2_Basic Version and Branch Management (Git)
+# 2_Basic Version and Branch Management (Git)
 
-####Task
+## Task
 
 ### Membuat Repository
 Pada task ini ditugaskan untuk membuat repository pada Github
