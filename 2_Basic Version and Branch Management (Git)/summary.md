@@ -1,5 +1,7 @@
 # 2_Basic Version and Branch Management (Git)
 
+# Essay
+
 ## Task
 
 ### Membuat Repository
