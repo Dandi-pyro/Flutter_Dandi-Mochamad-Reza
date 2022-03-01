@@ -15,6 +15,6 @@ Disini saya membuat string dengan nama pertama, kedua dan ketiga lalu saya input
 ![](screenshot/OutputTask2.png)
 
 # Resume
-- Mempelajari basic dart programming
-- Mengetahui variabel-variabel dalam dart programming
-- Memahami Async-Await, List dan Map dari dart programming
+- Mempelajari mengenai branching(If-Else-Else if)
+- Mengetahui perulangan yang ada di pemrograman dart(For, While, Do While) beserta cara menghentikannya(break, continue)
+- Memahami Fungsi yang ada di pemrograman dart(membuat fungsi, memanggil fungsi, fungsi dengan parameter, fungsi dengan return)
