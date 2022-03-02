@@ -20,3 +20,25 @@ Solusinya saya gunakan fungsi untuk mereturn nilai faktorialnya dan memasukkan h
 - Mempelajari mengenai branching(If-Else-Else if)
 - Mempelajari mengenai Looping(for, while, do while)
 - mempelajari mengenai Function
+
+# Soal Latihan Section 5 saat live session
+
+## Soal 1
+![](screenshot/SourceCodeSoal1.png)
+![](screenshot/OutputSoal1.png)
+
+## Soal 2
+![](screenshot/SourceCodeSoal2.png)
+![](screenshot/OutputSoal2.png)
+
+## Soal 3
+![](screenshot/SourceCodeSoal3.png)
+![](screenshot/OutputSoal3.png)
+
+## Soal 4
+![](screenshot/SourceCodeSoal4.png)
+![](screenshot/OutputSoal4.png)
+
+## Soal 5
+![](screenshot/SourceCodeSoal5.png)
+![](screenshot/OutputSoal5.png)
