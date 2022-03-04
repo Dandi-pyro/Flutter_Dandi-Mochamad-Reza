@@ -6,9 +6,13 @@
 
 ### Membuat Fungsi dengan beberapa kentetuan
 Di task pertama ini disuruh membuat program dart dengan fungsi yang menerima dua parameter yaitu list data dan pengali, Lalu lakukan pengulangan secara asynchronous dengan setiap perulagan data dikali dengan pengali dan lakukan return dari hasil list data yang dikali.
+![](screenshot/SourceCodeTask1.png)
+![](screenshot/OutputTask1.png)
 
 ### Buat map dengan berisikan list dengan beberapa ketentuan
-Di task kedua ini disuruh membuat map berisi list dengan list memiliki element berupa list juga dan minimal dua tipe sub-element.
+Di task kedua ini disuruh membuat map berisi list dengan list memiliki element berupa list juga dan minimal dua tipe sub-element. Untuk itu saya membuat map berisikan 2 buah list lalu dimasukkan nilai-nilai kedalam list tersebut.
+![](screenshot/SourceCodeTask2.png)
+![](screenshot/OutputTask2.png)
 
 # Resume
 - Mempelajari Advance Function(Async-Await, Future)
