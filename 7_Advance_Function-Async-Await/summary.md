@@ -10,7 +10,7 @@ Di task pertama ini disuruh membuat program dart dengan fungsi yang menerima dua
 ![](screenshoot/OutputTask1.png)
 
 ### Buat map dengan berisikan list dengan beberapa ketentuan
-Di task kedua ini disuruh membuat map berisi list dengan list memiliki element berupa list juga dan minimal dua tipe sub-element. Untuk itu saya membuat map berisikan 2 buah list lalu dimasukkan nilai-nilai kedalam list tersebut.
+Di task kedua ini disuruh membuat map berisi list dengan list memiliki element berupa list juga dan minimal dua tipe sub-element. Untuk itu saya membuat list lalu dimasukkan nilai-nilai yang saya inginkan terus masukkan ke map.
 ![](screenshoot/SourceCodeTask2.png)
 ![](screenshoot/OutputTask2.png)
 
