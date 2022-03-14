@@ -28,6 +28,6 @@ Setelah itu saya menyelesaikan void mainnya seperti yang ada di screenshoot.
 ![](screenshoot/OutputTask4.png)
 
 # Resume
-- Mempelajari Inheritance, Interface, Abstract class.
-- Mempelajari Method Overriding.
+- Mempelajari Inheritance, Interface dan Abstract class.
+- Mempelajari Constructor dan Method Overriding.
 - Mempelajari Polymosphism dan generics.
