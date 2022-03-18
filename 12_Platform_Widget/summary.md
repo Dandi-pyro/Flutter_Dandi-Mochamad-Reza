@@ -27,7 +27,7 @@ Di task kedua ini saya membuat 1 file saja yaitu main, isinya masih belum sempur
 ![](screenshoot/Task2_main.dart1.3.png)
 ![](screenshoot/Task2_main.dart1.4.png)
 ![](screenshoot/Task2_main.dart1.5.png)
-![](screenshoot/Output2.png)
+![](screenshoot/OutputTask2.png)
 
 # Resume
 - Mempelajari Platform widget dari android dan ios
