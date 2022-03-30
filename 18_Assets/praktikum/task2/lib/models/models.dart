@@ -1,0 +1,17 @@
+List gambar = [
+  'asset/img/Android.jpg',
+  'asset/img/Aurora.jpg',
+  'asset/img/Chandler.jpg',
+  'asset/img/Chris.jpg',
+  'asset/img/Dream.jpg',
+  'asset/img/Drista.jpg',
+  'asset/img/Flutter.png',
+  'asset/img/George.jpg',
+  'asset/img/Ios.jpg',
+  'asset/img/Karl.jpg',
+  'asset/img/MrBeast.jpg',
+  'asset/img/RTX_GeForce.jpg',
+  'asset/img/Sleepy.jpg',
+  'asset/img/Techno.jpg',
+  'asset/img/Tommy.jpg',
+];
