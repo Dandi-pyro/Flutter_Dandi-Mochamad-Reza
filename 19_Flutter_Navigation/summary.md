@@ -19,7 +19,6 @@ Di section kali ini task 1 dan 2 saya gabungkan, saya gunakan beberapa packages 
 ![](screenshoot/CreatePage3.png)
 ![](screenshoot/Output1.png)
 ![](screenshoot/Output2.png)
-![](screenshoot/OutputErrorValidation.png)
 
 # Resume
 - Mempelajari Navigation Dasar
