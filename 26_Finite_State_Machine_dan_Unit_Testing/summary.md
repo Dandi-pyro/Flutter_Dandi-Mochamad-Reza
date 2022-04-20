@@ -12,7 +12,7 @@ Di task pertama saya buat terlebih dahulu struktur MVVM lalu untuk food_model.da
 ![](screenshoot/FoodViewModal.png)
 ![](screenshoot/FoodScreen1.png)
 ![](screenshoot/FoodScreen2.png)
-![](screenshoot/OutputTask1.png)
+![](screenshoot/OutpurTask1.png)
 
 ### lakukan unit testing pada mvvm task1 dengan menggunakan mocking
 Di task kedua saya buat file baru yaitu food_api_test.dart isinya saya gunakan group test, pada food_api.dart hapus static pada fungsi future. Setelah itu saya lakukan flutter build_runner build untuk membuat mocking, setelah mocking berhasil dibuat saya tambahkan beberapa code lagi pada food_api_test.dart. Hasilnya seperti berikut:
